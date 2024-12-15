@@ -1,6 +1,6 @@
 # Model Validation
 
-Steps involved in model validation and tuning (Regrrssion example)<br/>
+Steps involved in model validation and tuning (Regression example)<br/>
 <br/>
 
 ### 1. Get the data
