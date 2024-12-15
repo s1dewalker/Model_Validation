@@ -1,4 +1,4 @@
-# Model Validation
+# Model Validation and Tuning
 
 Steps involved in model validation and tuning (Regression example, on a continuos data)<br/>
 <br/>
