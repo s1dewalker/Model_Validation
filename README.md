@@ -17,8 +17,7 @@ Steps involved in model validation and tuning (Regression example, on a continuo
 
 ### [Check out Model Validation and Tuning in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb) 
 
-<br/><br/> <br/>
-
+<br/><br/>
 
 Few Details:
 
@@ -31,13 +30,14 @@ Few Details:
 
 **Variance = following training data too closely** = ERROR due to OVERLY COMPLEX models (overfitting) that are SENSITIVE TO FLUCTUATIONS (noise) in the training data <br/>
 <br/>
+<br/>
+
 High Bias + Low Variance: Underfitting (simpler models) <br/>
 Low Bias + High Variance: Overfitting (complex models) <br/>
 <br/>
 **Training error high = Underfitting** <br/>
 **Testing error >> Training error = Overfitting** <br/>
  <br/>
-
 
 
 ## Cross Validation 
@@ -52,7 +52,8 @@ Why use? <br/>
 - Better Generalization: If our models are not generalizing well (Generalization refers to a model's ability to perform well on new, unseen data, not just the data it was trained on)
 - Reliable Evaluation
 - Efficient use of data (if we have limited data)
-
+ <br/>
+ 
 Types: <br/>
 1. **cross_val_score**
 <img src="sc/cvs.JPG" alt="Description" width="500">
