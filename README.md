@@ -27,9 +27,9 @@ Few Details:
 <img src="sc/biasvariance.JPG" alt="Description" width="500">
 
 
-**Bias = failing to find relationship b/w data and response, leading to underfitting** = ERROR due to OVERLY SIMPLISTIC models (underfitting) <br/>
+**Bias = failing to find relationship b/w data and response** = ERROR due to OVERLY SIMPLISTIC models (underfitting) <br/>
 
-**Variance = following training data too closely, leading to overfitting** = ERROR due to OVERLY COMPLEX models (overfitting) that are SENSITIVE TO FLUCTUATIONS (noise) in the training data <br/>
+**Variance = following training data too closely** = ERROR due to OVERLY COMPLEX models (overfitting) that are SENSITIVE TO FLUCTUATIONS (noise) in the training data <br/>
 <br/>
 High Bias + Low Variance: Underfitting (simpler models) <br/>
 Low Bias + High Variance: Overfitting (complex models) <br/>
@@ -57,6 +57,8 @@ Types: <br/>
 1. **cross_val_score**
 <img src="sc/cvs.JPG" alt="Description" width="500">
 
+ <br/>
+ 
 2. **Leave-one-out-cross-validation (LOOCV)**
 
 Use when data is limited, but computationally expensive <br/>
