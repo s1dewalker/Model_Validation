@@ -1,7 +1,7 @@
 # Model Validation and Tuning
-
-Steps involved in model validation and tuning (Regression example, on a continuos data)<br/>
 <br/>
+
+Steps involved in model validation and tuning (Regression example, on a continuos data)
 
 ### 1. Get the data
 ### 2. Define the target (y) and features (X)
@@ -13,11 +13,12 @@ Steps involved in model validation and tuning (Regression example, on a continuo
 ### 8. Iterate to tune the model (from step 4)
 ### 9. Cross Validation | if model not generalizing well
 ### 10. Selecting the best model w/ Hyperparameter tuning
-
 <br/>
 
-### [Check out Model Validation and Tuning](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb) 
-<br/>
+### [Check out Model Validation and Tuning in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb) 
+
+<br/><br/>
+
 
 Few Details:
 
@@ -52,6 +53,7 @@ Why use? <br/>
 Types: <br/>
 1. **cross_val_score**
 <img src="sc/cvs.JPG" alt="Description" width="500">
+
 2. **Leave-one-out-cross-validation (LOOCV)**
 
 Use when data is limited, but computationally expensive <br/>
