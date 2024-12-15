@@ -17,7 +17,7 @@ Steps involved in model validation and tuning (Regression example, on a continuo
 
 ### [Check out Model Validation and Tuning in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb) 
 
-<br/><br/>
+<br/><br/> <br/>
 
 
 Few Details:
@@ -36,6 +36,9 @@ Low Bias + High Variance: Overfitting (complex models) <br/>
 <br/>
 **Training error high = Underfitting** <br/>
 **Testing error >> Training error = Overfitting** <br/>
+ <br/>
+
+
 
 ## Cross Validation 
 <img src="sc/cvimg2.png" alt="Description" width="500">
@@ -58,6 +61,7 @@ Types: <br/>
 
 Use when data is limited, but computationally expensive <br/>
 each data point is used as a test set <br/>
+
 `cv = X.shape[0]`
 
 <br/>
