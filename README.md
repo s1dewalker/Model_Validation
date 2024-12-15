@@ -16,4 +16,4 @@ Steps involved in model validation and tuning (Regression example, on a continuo
 
 <br/>
 
-### [Check out Model Validation](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb)
+### [Check out Model Validation and Tuning](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb)
