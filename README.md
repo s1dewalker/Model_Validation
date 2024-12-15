@@ -52,7 +52,9 @@ Types: <br/>
 <img src="sc/cvs.JPG" alt="Description" width="500">
 
 2. Leave-one-out-cross-validation (LOOCV)
+
 Use when data is limited, but computationally expensive <br/>
+each data point is used as a test set <br/>
 `cv = X.shape[0]`
 
 <br/>
