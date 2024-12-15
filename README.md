@@ -35,6 +35,9 @@ Variance = ERROR due to OVERLY COMPLEX models (overfitting) that are SENSITIVE T
 
 High Bias + Low Variance: Underfitting (simpler models) <br/>
 Low Bias + High Variance: Overfitting (complex models) <br/>
+<br/>
+Training error high = Underfitting <br/>
+Testing error >> Training error = Overfitting <br/>
 
 
 
