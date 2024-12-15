@@ -49,7 +49,8 @@ Why use? <br/>
 Types: <br/>
 1. cross_val_score
 
-<img src="sc/cvs.JPG" alt="Description" width="500">
+
+<img src="sc/cvimg2.JPG" alt="Description" width="500">
 
 2. Leave-one-out-cross-validation (LOOCV)
 
