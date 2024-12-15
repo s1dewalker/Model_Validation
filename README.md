@@ -27,6 +27,7 @@ Few Details:
 
 
 **Bias = failing to find relationship b/w data and response, leading to underfitting** = ERROR due to OVERLY SIMPLISTIC models (underfitting) <br/>
+
 **Variance = following training data too closely, leading to overfitting** = ERROR due to OVERLY COMPLEX models (overfitting) that are SENSITIVE TO FLUCTUATIONS (noise) in the training data <br/>
 <br/>
 High Bias + Low Variance: Underfitting (simpler models) <br/>
@@ -35,10 +36,23 @@ Low Bias + High Variance: Overfitting (complex models) <br/>
 **Training error high = Underfitting** <br/>
 **Testing error >> Training error = Overfitting** <br/>
 
-## Cross Validation
-Splitting data into distinct subsets. Each subset used once as a test set while the remaining as training set. Results from all splits are averaged. <br/>
-Why use? <br/>
-- 
+## Cross Validation 
 
+Splitting data into distinct subsets. Each subset used once as a test set while the remaining as training set. Results from all splits are averaged. <br/>
+<br/>
+Why use? <br/>
+
+- Better Generalization: If our models are not generalizing well (Generalization refers to a model's ability to perform well on new, unseen data, not just the data it was trained on)
+- Reliable Evaluation
+- Efficient use of data (if we have limited data)
+
+Types: <br/>
+1. cross_val_score
+
+2. Leave-one-out-cross-validation (LOOCV)
+Use when data is limited, but computationally expensive <br/>
+`cv = X.shape[0]`
+
+<br/>
 
 
