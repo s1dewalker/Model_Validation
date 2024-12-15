@@ -22,6 +22,9 @@ Steps involved in model validation and tuning (Regression example, on a continuo
 Few Details:
 
 ## Bias-Variance trade-off
+<img src="sc/biasvariance.JPG" alt="Description" width="800">
+
+
 Bias = failing to find relationship b/w data and response, leading to underfitting <br/>
 Variance = following training data too closely, leading to overfitting <br/>
 <br/>
