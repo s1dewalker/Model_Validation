@@ -26,18 +26,19 @@ Few Details:
 <img src="sc/biasvariance.JPG" alt="Description" width="500">
 
 
-**Bias = failing to find relationship b/w data and response, leading to underfitting** <br/>
-**Variance = following training data too closely, leading to overfitting** <br/>
+**Bias = failing to find relationship b/w data and response, leading to underfitting** = ERROR due to OVERLY SIMPLISTIC models (underfitting) <br/>
+**Variance = following training data too closely, leading to overfitting** = ERROR due to OVERLY COMPLEX models (overfitting) that are SENSITIVE TO FLUCTUATIONS (noise) in the training data <br/>
 <br/>
-Bias = ERROR due to OVERLY SIMPLISTIC models (underfitting)<br/>
-Variance = ERROR due to OVERLY COMPLEX models (overfitting) that are SENSITIVE TO FLUCTUATIONS (noise) in the training data.<br/>
-<br/>
-
 High Bias + Low Variance: Underfitting (simpler models) <br/>
 Low Bias + High Variance: Overfitting (complex models) <br/>
 <br/>
 **Training error high = Underfitting** <br/>
 **Testing error >> Training error = Overfitting** <br/>
+
+## Cross Validation
+Splitting data into distinct subsets. Each subset used once as a test set while the remaining as training set. Results from all splits are averaged. <br/>
+Why use? <br/>
+- 
 
 
 
