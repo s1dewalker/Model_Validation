@@ -37,7 +37,10 @@ Low Bias + High Variance: Overfitting (complex models) <br/>
 **Testing error >> Training error = Overfitting** <br/>
 
 ## Cross Validation 
+<img src="sc/cvimg2.png" alt="Description" width="500">
 
+###### by sharpsightlabs.com
+<br/>
 Splitting data into distinct subsets. Each subset used once as a test set while the remaining as training set. Results from all splits are averaged. <br/>
 <br/>
 Why use? <br/>
@@ -47,12 +50,9 @@ Why use? <br/>
 - Efficient use of data (if we have limited data)
 
 Types: <br/>
-1. cross_val_score
-
-
-<img src="sc/cvimg2.JPG" alt="Description" width="500">
-
-2. Leave-one-out-cross-validation (LOOCV)
+1. **cross_val_score**
+<img src="sc/cvs.JPG" alt="Description" width="500">
+2. **Leave-one-out-cross-validation (LOOCV)**
 
 Use when data is limited, but computationally expensive <br/>
 each data point is used as a test set <br/>
