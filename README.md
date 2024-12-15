@@ -9,7 +9,7 @@ Steps involved in model validation and tuning (Regression example)<br/>
 ### 4. Initiate a model, set parameters, and Fit the training set | `X_train, y_train`
 ### 5. Predict on `X_test`
 ### 6. Accuracy or Error metrics on `y_test` | Ex: Mean squared error, R squared
-### 7. Bias-Variance tradeoff check
+### 7. Bias-Variance tradeoff check | Balancing underfitting and overfitting
 ### 8. Iterate to tune the model (from step 4)
 ### 9. Cross Validation | if model not generalizing well
 ### 10. Selecting the best model w/ Hyperparameter tuning
