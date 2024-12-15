@@ -35,8 +35,8 @@ Few Details:
 High Bias + Low Variance: Underfitting (simpler models) <br/>
 Low Bias + High Variance: Overfitting (complex models) <br/>
 <br/>
-**Training error high = Underfitting** <br/>
-**Testing error >> Training error = Overfitting** <br/>
+### **Training error high = Underfitting** 
+### **Testing error >> Training error = Overfitting** <br/>
  <br/>
 
 
@@ -44,8 +44,8 @@ Low Bias + High Variance: Overfitting (complex models) <br/>
 <img src="sc/cvimg2.png" alt="Description" width="500">
 
 ###### by sharpsightlabs.com
-<br/>
-Splitting data into distinct subsets. Each subset used once as a test set while the remaining as training set. Results from all splits are averaged. <br/>
+
+### Splitting data into distinct subsets. Each subset used once as a test set while the remaining as training set. Results from all splits are averaged. <br/>
 <br/>
 Why use? <br/>
 
@@ -63,7 +63,7 @@ Types: <br/>
 2. **Leave-one-out-cross-validation (LOOCV)**
 
 Use when data is limited, but computationally expensive <br/>
-each data point is used as a test set <br/>
+**Each data point is used as a test set** <br/>
 
 `cv = X.shape[0]`
 
