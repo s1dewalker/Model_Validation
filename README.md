@@ -13,3 +13,7 @@ Steps involved in model validation and tuning (Regrrssion example)<br/>
 ### 8. Iterate to tune the model (from step 4)
 ### 9. Cross Validation | if model not generalizing well
 ### 10. Selecting the best model w/ Hyperparameter tuning
+
+<br/>
+
+### [Check out Model Validation](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb)
