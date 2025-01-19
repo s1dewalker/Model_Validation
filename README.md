@@ -1,4 +1,4 @@
-<img src="sc/MODEL VALIDATION.png" alt="Description" width="500">
+<img src="sc/MODEL VALIDATION.png" alt="Description" width="1000">
 <br/>
 
 ## Example 1: Model validation of Assumptions of OLS regression in Fama French 3-Factor Model
