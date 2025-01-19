@@ -74,6 +74,6 @@ Use when data is limited, but computationally expensive <br/>
 ### 1. Checking Multicollinearity OF features or independent variables w/ Correlation matrix
 ### 2. Checking Llinearity w/ Scatter plots
 ### 3. Checking Idependence of of residuals w/ Autocorrelation Function (ACF) and D-W test
-### 4. Checking Normality of residuals with histogram
-### 5. Checking Homoscedasticity of Residuals with scatter plot of residuals and fitted values
+### 4. Checking Normality of residuals w/ histogram
+### 5. Checking Homoscedasticity of Residuals w/ scatter plot of residuals and fitted values
 
