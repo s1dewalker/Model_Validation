@@ -1,4 +1,4 @@
-# Model Validation and Tuning
+<img src="sc/MODEL VALIDATION.PNG" alt="Description" width="500">
 <br/>
 
 ## Example 1: Model validation of Assumptions of OLS regression in Fama French 3-Factor Model
