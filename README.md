@@ -1,7 +1,7 @@
 # Model Validation and Tuning
 <br/>
 
-## Example 2: Steps involved in model validation of assumptions of ols regression in Fama and French Three Factor Model
+## Example 1: Steps involved in model validation of assumptions of ols regression in Fama and French Three Factor Model
 
 ### 1. Checking Multicollinearity OF features or independent variables w/ Correlation matrix
 ### 2. Checking Llinearity w/ Scatter plots
@@ -13,7 +13,7 @@
 
 <br/>
 
-## Example 1: Steps involved in model validation and tuning (Random Forest Regression example, on a continuos data)
+## Example 2: Steps involved in model validation and tuning (Random Forest Regression example, on a continuos data)
 
 ### 1. Get the data
 ### 2. Define the target (y) and features (X)
