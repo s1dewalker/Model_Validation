@@ -8,6 +8,7 @@
 ### 3. Checking Idependence of of residuals w/ Autocorrelation Function (ACF) and D-W test
 ### 4. Checking Normality of residuals w/ histogram
 ### 5. Checking Homoscedasticity of Residuals w/ scatter plot of residuals and fitted values
+<br/>
 
 ### [Check out Model Validation for OLS Regression in Factor analysis in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Multi_Factor_Analysis3.ipynb)
 
