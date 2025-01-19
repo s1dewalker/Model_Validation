@@ -1,7 +1,6 @@
 # Model Validation and Tuning
 <br/>
-
-Steps involved in model validation and tuning (Random Forest Regression example, on a continuos data)
+## Example 1: Steps involved in model validation and tuning (Random Forest Regression example, on a continuos data)
 
 ### 1. Get the data
 ### 2. Define the target (y) and features (X)
