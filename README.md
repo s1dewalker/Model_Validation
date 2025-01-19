@@ -10,6 +10,12 @@
 ### 5. Checking Homoscedasticity of Residuals w/ scatter plot of residuals and fitted values
 <br/>
 
+<img src="sc/corr_sp.JPG" alt="Description" width="700">
+
+<img src="sc/resid.JPG" alt="Description" width="700">
+
+<br/>
+
 ### [Check out Model Validation for OLS Regression in Factor analysis in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Multi_Factor_Analysis3.ipynb)
 
 <br/>
