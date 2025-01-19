@@ -69,4 +69,11 @@ Use when data is limited, but computationally expensive <br/>
 
 <br/>
 
+## Example 2: Steps involved in model validation of assumptions of ols regression in Fama and French Three Factor Model
+
+### 1. Checking Multicollinearity OF features or independent variables w/ Correlation matrix
+### 2. Checking Llinearity w/ Scatter plots
+### 3. Checking Idependence of of residuals w/ Autocorrelation Function (ACF) and D-W test
+### 4. Checking Normality of residuals with histogram
+### 5. Checking Homoscedasticity of Residuals with scatter plot of residuals and fitted values
 
