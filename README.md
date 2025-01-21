@@ -22,6 +22,7 @@ Consequences: <br/>
 ### 3. Autocorrelation in residuals = Missing something important. Check for some important feature
 ### 4. Non-Normality of residuals = Assumption of tests of having a normal distribution on residuals won't hold. Apply transformations on features.
 ### 5. No Homoscedasticity of residuals = less precision in estimates
+<br/>
 
 ### [Check out Model Validation for OLS Regression in Factor analysis in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Multi_Factor_Analysis3.ipynb)
 
