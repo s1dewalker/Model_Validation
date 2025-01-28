@@ -42,7 +42,7 @@ Consequences: <br/>
 ### 10. Selecting the best model w/ Hyperparameter tuning
 <br/>
 
-### [Check out Model Validation and Tuning for RFC in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb) 
+### [Check out Model Validation and Tuning for RFR in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Model_Validation.ipynb) 
 
 <br/><br/>
 
