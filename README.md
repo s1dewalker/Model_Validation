@@ -5,7 +5,7 @@
 
 ### 1. Checking Multicollinearity of features or independent variables w/ Correlation matrix
 ### 2. Checking Linearity w/ Scatter plots
-### 3. Checking Idependence of residuals w/ Autocorrelation Function (ACF) and D-W test
+### 3. Checking Independence of residuals w/ Autocorrelation Function (ACF) and D-W test
 ### 4. Checking Normality of residuals w/ histogram
 ### 5. Checking Homoscedasticity (equal variance) of Residuals w/ scatter plot of residuals and fitted values
 <br/>
