@@ -4,7 +4,7 @@
 ## Example 1: Model validation of Assumptions of OLS regression in Fama French 3-Factor Model
 
 ### 1. Checking Multicollinearity of features or independent variables w/ Correlation matrix
-### 2. Checking Llinearity w/ Scatter plots
+### 2. Checking Linearity w/ Scatter plots
 ### 3. Checking Idependence of of residuals w/ Autocorrelation Function (ACF) and D-W test
 ### 4. Checking Normality of residuals w/ histogram
 ### 5. Checking Homoscedasticity of Residuals w/ scatter plot of residuals and fitted values
