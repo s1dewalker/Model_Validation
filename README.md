@@ -1,7 +1,7 @@
 <img src="sc/MODEL VALIDATION.png" alt="Description" width="1000">
 <br/>
 
-## Example 1: Model validation of Assumptions of OLS regression in Fama French 3-Factor Model
+## Example 1: Model validation of Assumptions of Linear regression in Fama French 3-Factor Model
 
 ### 1. Checking Multicollinearity of features or independent variables w/ Correlation matrix
 ### 2. Checking Linearity w/ Scatter plots
