@@ -7,7 +7,7 @@
 ### 2. Checking Linearity w/ Scatter plots
 ### 3. Checking Idependence of residuals w/ Autocorrelation Function (ACF) and D-W test
 ### 4. Checking Normality of residuals w/ histogram
-### 5. Checking Homoscedasticity of Residuals w/ scatter plot of residuals and fitted values
+### 5. Checking Homoscedasticity (equal variance) of Residuals w/ scatter plot of residuals and fitted values
 <br/>
 
 <img src="sc/corr_sp.JPG" alt="Description" width="700">
