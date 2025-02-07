@@ -48,7 +48,7 @@ Consequences: <br/>
 
 Few Details:
 
-## Bias-Variance trade-off
+## Bias-Variance trade-off 
 
 <img src="sc/biasvariance.JPG" alt="Description" width="500">
 
@@ -67,7 +67,7 @@ Low Bias + High Variance: Overfitting (complex models) <br/>
  <br/>
 
 
-## Cross Validation 
+## Cross Validation - An efficient method to find the balance
 <img src="sc/cvimg2.png" alt="Description" width="500">
 
 ###### by sharpsightlabs.com
