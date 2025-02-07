@@ -24,7 +24,7 @@ Consequences: <br/>
 ### 5. No Homoscedasticity of residuals = less precision in estimates
 <br/>
 
-### [Check out Model Validation for OLS Regression in Factor analysis in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Multi_Factor_Analysis3.ipynb)
+### [Check out Model Validation for Linear Regression in Factor analysis in Python](https://github.com/s1dewalker/Model_Validation/blob/main/Multi_Factor_Analysis3.ipynb)
 
 <br/>
 
